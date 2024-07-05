@@ -1,0 +1,1 @@
+export const JWT_SECRET = "apki_ma_ka_bhosda";
